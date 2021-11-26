@@ -1,7 +1,7 @@
 /* INFO */
 
 @media screen and (min-width: 768px){
-GIF/ {
+    .gif {
         background-size: cover !important;
         background-position: center;
     }
@@ -74,8 +74,9 @@ iframe {
     top:0px;
     left:0px;
 }
-GIF/ {
-    background-image: url('../GIF/kirito.jpg');
+
+.gif {
+    background-image: url('../GIF/gifkirito.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
